@@ -1,5 +1,6 @@
 ![](https://github.com/agiraudet/boidsServ/blob/main/.demo.gif)
 
+
 # boidsServ
 A C.W.Reynolds boid's implementation in C++ with realtime controls.
 
@@ -84,7 +85,6 @@ int main(void)
 }
 ```
 
-## TODO next
-* Get a better visual for the boids.
-* Create more different type of boids with differents ruleset
-* Create a proper control system (might be either via a GUI or a command prompt)
+#AUTHORS
+Agiraudet 
+Mbenabbo 
