@@ -85,6 +85,6 @@ int main(void)
 }
 ```
 
-#AUTHORS
+## AUTHORS
 Agiraudet 
 Mbenabbo 
